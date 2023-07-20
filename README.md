@@ -1,6 +1,6 @@
-### <h3 align="left">Hi there!<br/>
+#### <h3 align="left">Hi there!<br/>
 
-#### 👨‍🎓 Python developer
+### 👨‍🎓 Python developer
  
 #### My social networks:
 
