@@ -1,4 +1,4 @@
-#### <h3 align="left">Hi there!<br/>
+#### Hi there!
 
 ### 👨‍🎓 Python developer
  
