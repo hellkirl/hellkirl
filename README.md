@@ -1,12 +1,11 @@
 # Hi there! 👋🏼
 
-## 👨‍🎓 Python developer
+## 👨‍🎓 
 
 ### Hard skills:
 1) Backend Python (FastAPI, Flask)
 2) SQL (PostgreSQL, SQLite, Clickhouse)
-3) OOP (Python)
-4) Data Analytics (pandas, numpy)
+3) Data Analytics (pandas, numpy)
  
 ## My social networks:
 
