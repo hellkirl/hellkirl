@@ -1,12 +1,7 @@
-# Hi there! 👋🏼
-
-## 👨‍🎓 
+# Hi! 👋🏼 
 
 ### Hard skills:
-1) Backend Python (FastAPI, Flask)
-2) SQL (PostgreSQL, SQLite, Clickhouse)
-3) NoSQL (MongoDB, Redis)
-4) Data Analytics (pandas, numpy, Power BI)
+soon
  
 ## My social networks:
 
