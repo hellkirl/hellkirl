@@ -1,10 +1,8 @@
 # Hi! 👋🏼 
 
 ### Hard skills:
-Backend: Node.js, Python
-
-Databases: PostgreSQL, MongoDB, Redis
-
+Backend: Node.js, Python\n
+Databases: PostgreSQL, MongoDB, Redis\n
 Technologies/Frameworks: Docker, Kubernetes
  
 ## My social networks:
