@@ -3,7 +3,7 @@
 ## Backend Developer
 
 ### Hard skills:
-Backend: Node.js, Go\
+Backend: Go, Node.js\
 Databases: PostgreSQL, Clickhouse, MongoDB, Redis\
 Technologies/Frameworks: Docker, Nest.js, git, RabbitMQ, API (Websocket, REST, GraphQL, gRPC)
  
