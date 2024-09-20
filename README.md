@@ -14,4 +14,4 @@ Technologies/Frameworks: Docker, Nest.js, git, RabbitMQ, API (Websocket, REST, G
 <a href="mailto:kirillprivalov04@icloud.com">
    <img top="0" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width=50 height=50 alt="GitHub" target="_blank" margin-left="10px">
 
-[![hellkirl stats](https://github-readme-stats-edmaxi.vercel.app/api?username=hellkirl&hide=contribs&count_private=true&show_icons=true&title_color=0af&icon_color=fa0&text_color=ddd&bg_color=1a202c&hide_border=true&locale=en-us&custom_title=hellkirl%20Statistics%20on%20Github)](https://github.com/edmaxi/github-readme-stats)
+[![hellkirl stats](https://github-readme-stats-edmaxi.vercel.app/api?username=hellkirl&hide=contribs&count_private=true&show_icons=true&title_color=0af&icon_color=fa0&text_color=ddd&bg_color=1a202c&hide_border=true&custom_title=hellkirl%20GitHub%20on%20Stats)](https://github.com/edmaxi/github-readme-stats)
