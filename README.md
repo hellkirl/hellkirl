@@ -27,6 +27,6 @@
 
 ### Social networks 👥
 
-* <img src="./images/logo-icons/telegram.me.jpg" width="15px;"/> [Telegram.me](#telegramme)
+* <img src="https://github.com/CLorant/readme-social-icons/blob/main/small/colored/telegram.svg" width="15px;"/> [Telegram](t.me/hellkirl)
 
 [![hellkirl stats](https://github-readme-stats-edmaxi.vercel.app/api?username=hellkirl&hide=contribs&count_private=true&show_icons=true&title_color=0af&icon_color=fa0&text_color=ddd&bg_color=1a202c&hide_border=true&custom_title=hellkirl%20GitHub%20on%20Stats)](https://github.com/hellkirl)
