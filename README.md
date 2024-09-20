@@ -1,4 +1,4 @@
-<img src=https://raw.githubusercontent.com/mattn/gopher/master/misc/screenshot/OKqbF7n.gif></img>
+<img src=https://raw.githubusercontent.com/mattn/gopher/master/misc/screenshot/OKqbF7n.gif"/>
 
 # Hi there, I'm Kirill! 👋🏼 
 
@@ -27,6 +27,7 @@
 
 ### Social networks 👥
 
-* <img src="https://github.com/CLorant/readme-social-icons/blob/main/small/colored/telegram.svg" width="15px;"/> [Telegram](t.me/hellkirl)
+* <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/telegram.svg" width="15px;"/> [Telegram](https://telegram.me/hellkirl)
+* <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"/> [Mail](mailto://kirillprivalov04@icloud.com)
 
 [![hellkirl stats](https://github-readme-stats-edmaxi.vercel.app/api?username=hellkirl&hide=contribs&count_private=true&show_icons=true&title_color=0af&icon_color=fa0&text_color=ddd&bg_color=1a202c&hide_border=true&custom_title=hellkirl%20GitHub%20on%20Stats)](https://github.com/hellkirl)
