@@ -28,9 +28,8 @@
 ### Social networks 👥
 
 <a href="https://t.me/hellkirl">
-   <img top="0" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png?20220101141644)" width=50 height=50 alt="Telegram" target="_blank" margin-left="10px">
+   <img top="0" src="https://w7.pngwing.com/pngs/527/758/png-transparent-social-media-telegram-logo-computer-icons-telegram-angle-triangle-monochrome-thumbnail.png" width=50 height=50 alt="Telegram" target="_blank" margin-left="10px">
 <a href="mailto:kirillprivalov04@icloud.com">
-   <img top="0" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width=50 height=50 alt="GitHub" target="_blank" margin-left="10px">
-
+   <img top="0" src="https://e7.pngegg.com/pngimages/333/868/png-clipart-mail-computer-icons-email-graphy-e-mail-miscellaneous-angle.png" width=50 height=50 alt="GitHub" target="_blank" margin-left="10px">
 
 [![hellkirl stats](https://github-readme-stats-edmaxi.vercel.app/api?username=hellkirl&hide=contribs&count_private=true&show_icons=true&title_color=0af&icon_color=fa0&text_color=ddd&bg_color=1a202c&hide_border=true&custom_title=hellkirl%20GitHub%20on%20Stats)](https://github.com/hellkirl)
