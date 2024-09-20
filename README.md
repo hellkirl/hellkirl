@@ -16,7 +16,7 @@
 ![redis](https://img.shields.io/badge/Redis-red?style=flat&logo=Redis&logoColor=white)
 ![clickhouse](https://img.shields.io/badge/Clickhouse-47A248?style=flat&logo=Clickhouse&logoColor=white)
 
-#### Technologies && Frameworks 🕹️
+#### Technologies & Frameworks 🕹️
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=fork&logo=apache-kafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-231F20?style=fork&logo=git&logoColor=white)
