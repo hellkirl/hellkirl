@@ -21,7 +21,7 @@
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-231F20?style=fork&logo=git&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-orange?style=fork&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub-black?style=fork&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub Actions-black?style=fork&logo=github&logoColor=white)
 ![Nest.JS](https://img.shields.io/badge/-NestJs-ea2845?style=fork&logo=nestjs&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-grey?logo=linux&logoColor=white)
 
