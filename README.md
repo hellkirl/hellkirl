@@ -17,7 +17,7 @@
 ![clickhouse](https://img.shields.io/badge/Clickhouse-47A248?style=flat&logo=Clickhouse&logoColor=white)
 
 #### Technologies & Frameworks 🕹️
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=fork&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-231F20?style=fork&logo=git&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-orange?style=fork&logo=gitlab&logoColor=white)
