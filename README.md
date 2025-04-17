@@ -1,6 +1,6 @@
 <img src=https://miro.medium.com/v2/resize:fit:1400/1*CKK4XrLm3ylzsQzNbOaroQ.png>
 
-# Hi there, I'm Kirill! 👋🏼 
+# Hi there, I'm Kirill (or simply Cyril)! 👋🏼 
 
 ## Backend Developer 🧑🏻‍💻
 
