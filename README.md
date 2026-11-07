@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <b>🟢 Open to backend roles — remote or hybrid</b>
+  <b>🟢 Open to backend roles — remote</b>
 </p>
 
 ---
